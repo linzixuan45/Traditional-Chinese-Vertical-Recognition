@@ -1,0 +1,10 @@
+{
+  "API_KEY": ["Cup0QivPUY7qdFfZ8G1sTBoL", "aoOUWMQA6htzw6se1eqvKosd", "vVnYezMOaeNB50mZYtvuYm30","MEoi0wnqTxzXMZttKd1wZmVv","hEGLMNHT9NdwFnczvWrdX5gh"],
+  "SECRET_KEY": ["LAuvWngbow5Ok4p0CrWm2SUWmxap2jOM", "jOySMyhnFC84MwnZLIkk7GWrDCrsZusn","bwZfEIX5NcuKCFPMGABUCOGI3nxfI33X","pf2PD86aclj9S3dey8KsYPePnTrx3IcP","ZLO4AFlrZljNdqDVD3xDsD3Bcti5UnRB"],
+  "imgs_dir": ["E:\\张悠然\\2023-2-13\\数据\\嘉道卷\\嘉道卷\\第十八册","E:\\张悠然\\2023-2-13\\数据\\嘉道卷\\嘉道卷\\第十九册","E:\\张悠然\\2023-2-13\\数据\\嘉道卷\\嘉道卷\\第二十四册","E:\\张悠然\\2023-2-13\\数据\\嘉道卷\\嘉道卷\\第二十三册"],
+  "acc_loc": true,
+  "word_save": "word_save22",
+  "img_temp": "img_temp",
+  "dpi" : 300,
+  "path_sort_way": "int"
+}

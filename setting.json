@@ -1,0 +1,10 @@
+{
+  "API_KEY": ["hEGLMNHT9NdwFnczvWrdX5gh","Cup0QivPUY7qdFfZ8G1sTBoL", "aoOUWMQA6htzw6se1eqvKosd", "vVnYezMOaeNB50mZYtvuYm30","MEoi0wnqTxzXMZttKd1wZmVv"],
+  "SECRET_KEY": ["ZLO4AFlrZljNdqDVD3xDsD3Bcti5UnRB","LAuvWngbow5Ok4p0CrWm2SUWmxap2jOM", "jOySMyhnFC84MwnZLIkk7GWrDCrsZusn","bwZfEIX5NcuKCFPMGABUCOGI3nxfI33X","pf2PD86aclj9S3dey8KsYPePnTrx3IcP"],
+  "imgs_dir": ["F:\\繁体古籍数据集\\苏州大学数据集\\嘉道卷\\第一册","F:\\繁体古籍数据集\\苏州大学数据集\\嘉道卷\\0206","F:\\繁体古籍数据集\\苏州大学数据集\\嘉道卷\\0709"],
+  "acc_loc": true,
+  "word_save": "word_save22",
+  "img_temp": "img_temp",
+  "dpi" : 300,
+  "path_sort_way": "int"
+}
